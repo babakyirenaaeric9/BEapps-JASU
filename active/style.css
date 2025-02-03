@@ -1,0 +1,171 @@
+body {
+    background-color: #f3f6f9;
+    font-family: 'Arial', sans-serif;
+}
+
+.form-container {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+.heading-primary {
+    color: green;
+    text-align: center;
+    margin-top: 20px;
+}
+.heading-secondary {
+    color: yellow;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.navbar {
+    background-color: #0d6efd; /* Blue */
+}
+.navbar-brand, .nav-link, .dropdown-toggle {
+    color: white !important;
+}
+.nav-link:hover {
+    color: #ffcccc !important; /* Light Red on Hover */
+}
+header h1, header h2 {
+    color: #198754; /* Green */
+}
+.wrapper h2 {
+    color: #dc3545; /* Red */
+}
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #dee2e6;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #198754; /* Green Header */
+    color: white;
+}
+td {
+    background-color: white;
+}
+td a {
+    text-decoration: none;
+}
+td a button {
+    background-color: #dc3545; /* Red Button */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+td a button:hover {
+    background-color: #bd2130; /* Darker Red on Hover */
+}
+footer {
+    margin-top: 30px;
+    padding: 15px 0;
+    text-align: center;
+    background-color: #0d6efd; /* Blue Footer */
+    color: white;
+}
+
+
+
+header {
+    margin-top: 90px;
+    text-align: center;
+    color: #198754;
+}
+header h1 {
+    font-weight: bold;
+}
+header h2 {
+    color: #dc3545;
+}
+.navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.form-container {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    border: 1px solid #198754;
+}
+.form-container h3 {
+    color: #198754;
+    font-weight: bold;
+}
+.btn-success {
+    background-color: #198754;
+    border-color: #198754;
+}
+.btn-success:hover {
+    background-color: #145a32;
+    border-color: #145a32;
+}
+.text-center a {
+    color: #dc3545;
+    text-decoration: none;
+}
+.text-center a:hover {
+    color: #198754;
+}
+
+
+header {
+    margin-top: 70px; /* Ensure proper spacing with the fixed navbar */
+}
+.form-container {
+    background-color: #f8f9fa; /* Light gray background */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+.heading-primary {
+    text-align: center;
+    color: #198754; /* Bootstrap success green */
+    margin-top: 20px;
+}
+.heading-secondary {
+    text-align: center;
+    color:rgb(223, 12, 12); /* Bootstrap primary blue */
+    font-weight: 400;
+}
+
+
+
+
+
+/*form status*/
+.container {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #fff;
+}
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.header img {
+    width: 70px;
+}
+.table {
+    margin-top: 20px;
+}
+.candidate-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.stts_fom{
+    color: black;
+}
